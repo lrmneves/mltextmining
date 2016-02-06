@@ -1,0 +1,116 @@
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Expect an input document clustering results file, gold standard file
+Please give the files in that order.
+For example, python HW2_eval.py docCluster.txt goldClusters.txt
+Macro F1 = 0.0519282636412
+Macro F1 = 0.0720672576708
+Macro F1 = 0.0974410936916
+Macro F1 = 0.109806418848
+Macro F1 = 0.128334023054
+Macro F1 = 0.145308529202
+Macro F1 = 0.171187776761
+Macro F1 = 0.179053516901
+Macro F1 = 0.200499522764
+Macro F1 = 0.211222497774
+Macro F1 = 0.230959281531
+Macro F1 = 0.219508712099
+Macro F1 = 0.231900556844
+Macro F1 = 0.260078805915
+Macro F1 = 0.304621757428
+Macro F1 = 0.292839957631
+Macro F1 = 0.296115588339
+Macro F1 = 0.308899476159
+Macro F1 = 0.311636213236
+Macro F1 = 0.337329997681
+Macro F1 = 0.362468028859
+Macro F1 = 0.347490772164
+Macro F1 = 0.378343344669
+Macro F1 = 0.373222995519
+Macro F1 = 0.400353542999
+Macro F1 = 0.407351003804
+Macro F1 = 0.427744824339
+Macro F1 = 0.421076827504
+Macro F1 = 0.381366532752
