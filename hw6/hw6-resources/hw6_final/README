@@ -1,0 +1,1 @@
+I have created an iPython notebook for this hw. To run, you only need to start jupyter notebook on your terminal and you can see my experiments. Main functions are on separate files(preprocessing, pmf and logistic regression computation).
